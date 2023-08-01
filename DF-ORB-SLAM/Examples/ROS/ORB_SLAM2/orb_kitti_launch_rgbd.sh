@@ -1,0 +1,1 @@
+rosrun ORB_SLAM2 RGBD /home/wang/ROS_WS/orbslam_ws/src/ORB_SLAM2/Vocabulary/ORBvoc.txt ../../../config/09.yaml /camera/rgb/image_raw:=/depth_node/reference_image /camera/depth_registered/image_raw:=/depth_node/depth_image

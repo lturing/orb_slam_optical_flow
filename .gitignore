@@ -23,3 +23,9 @@ ORB-YGZ-SLAM/Thirdparty/g2o/lib
 ORB-YGZ-SLAM/build
 
 
+DF-ORB-SLAM/Thirdparty/DBoW2/build
+DF-ORB-SLAM/Thirdparty/DBoW2/lib
+DF-ORB-SLAM/Thirdparty/g2o/build
+DF-ORB-SLAM/Thirdparty/g2o/lib
+DF-ORB-SLAM/build
+DF-ORB-SLAM/Vocabulary/ORBvoc.txt
